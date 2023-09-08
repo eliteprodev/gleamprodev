@@ -12,7 +12,7 @@ I'm a passionate and experienced senior software developer with a strong backgro
  
 ## 💼 Technical Skills 
  
-- Programming Languages: HTML, CSS, JavaScript, Ruby, C#, Python, Golang
+- Programming Languages: HTML, CSS, JavaScript, Ruby, C#, Python, Golang, Rust
 - Frameworks and Technologies: React.js, Vue.js, Angular, Ruby on Rails, Node.js, ASP.net, Django, Golang
 - Databases: MySQL, PostgreSQL, MS SQL, SQLite, Oracle, MongoDB, MariaDB
 - Cloud Platforms: Amazon Web Services, Microsoft Azure, Google Cloud Platform, IBM Cloud, DigitalOcean, Heroku
