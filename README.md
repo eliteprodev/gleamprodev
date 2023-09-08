@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋 
+# Hi there! I'm Tatul Martirosyan 👋 
  
 I'm a passionate and experienced senior software developer with a strong background in building robust and scalable applications. I thrive in dynamic and collaborative environments, where I can leverage my expertise to drive innovation and deliver exceptional results. 
  
